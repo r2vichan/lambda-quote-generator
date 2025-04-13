@@ -59,8 +59,8 @@ This project is an AWS-based workflow designed to inspire and motivate users by 
 ## **Technologies Used**
 
 - Python
-- AWS services
-- API
+- AWS
+- REST API
 
 ## **Dependencies**
 
@@ -81,8 +81,5 @@ This project demonstrates how AWS services can work together to automate workflo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Article
-
-To get more API check out this article: [Public APIs Developers Can Use in Their Projects](https://www.freecodecamp.org/news/public-apis-for-developers/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
